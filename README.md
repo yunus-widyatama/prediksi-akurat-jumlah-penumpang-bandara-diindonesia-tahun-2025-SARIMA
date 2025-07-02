@@ -1,0 +1,2 @@
+# prediksi-akurat-jumlah-penumpang-bandara-diindonesia-tahun-2025-SARIMA
+This project predicts passenger numbers at major Indonesian airports for 2025 using the SARIMA model. It analyzes historical data (2006-2024) from Soekarno-Hatta, Juanda, Ngurah Rai, and Kualanamu airports, and evaluates accuracy using MAPE. The results help in capacity planning and operational strategies for the aviation sector.
